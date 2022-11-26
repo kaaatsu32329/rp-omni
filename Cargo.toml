@@ -1,0 +1,2 @@
+[workspace]
+members = ["rp-server", "wio-client"]
