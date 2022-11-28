@@ -7,3 +7,7 @@ edition = "2021"
 
 [dependencies]
 rppal = "0.14.1"
+
+[[bin]]
+name = "rp_main"
+path = "src/bin/main.rs"
